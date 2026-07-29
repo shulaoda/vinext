@@ -1,0 +1,19 @@
+pnpm-lock.yaml
+  s_1239d7a5fd95ca::t_29203c943f7404 327
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3ab0af97b3d63b1890de8ad067c8d503a202d693",
+  "prompts": {},
+  "sessions": {
+    "s_1239d7a5fd95ca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38278187-2293-4ec8-89cf-fdc1e1b6801b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "shulaoda <165626830+shulaoda@users.noreply.github.com>"
+    }
+  }
+}
